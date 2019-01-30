@@ -1,0 +1,3 @@
+/home/lixiaogang/sunmi/github_blog/JNI/cmake/CMakeFiles/rebuild_cache.dir
+/home/lixiaogang/sunmi/github_blog/JNI/cmake/CMakeFiles/edit_cache.dir
+/home/lixiaogang/sunmi/github_blog/JNI/cmake/CMakeFiles/main.dir
